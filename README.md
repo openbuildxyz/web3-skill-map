@@ -13,6 +13,7 @@ Web3 程序员技能图谱是由 [OpenBuild](https://openbuild.xyz/) 社区发�
 - Web3 行业入门通识 @Leo
 - Solana 合约开发工程师 @小龙
 - Ethereum DAPP 开发工程师 @Tiny熊
+- Near 开发工程师 @Robert
 
 **Todo**
 > 如果您有任何想法，欢迎在下面补充👏
