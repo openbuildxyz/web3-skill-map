@@ -37,7 +37,7 @@ Web3 程序员技能图谱是一个减少小白 Web3 程序员学习成本的教
     1. 首先要标明自己认领的任务编号，即 reference 到对应 issue；
     2. 如果内容比较多，建议各位贡献者分好 section 进行 commit，或者整个图谱写好后一次 commit；
     3. 当整个图谱完结后，请在 issue 中留言说明，maintainer 将会进入 review 阶段，任何 review 建议将通过 PR 中的留言进行记录；
-    4. 当内容 review 修改结束，maintainer 将会 merge 该 PR 并修改 issue 状态、关闭相关 issue。
+    4. 当 review 通过并无其他问题，maintainer 将会 merge 该 PR 并修改 issue 状态、close 相关 issue。
 
 ## 项目进展
 - Web3 行业入门通识 @Leo
