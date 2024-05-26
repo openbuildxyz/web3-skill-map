@@ -14,6 +14,38 @@ Web3 程序员技能图谱是一个减少小白 Web3 程序员学习成本的教
 
 图谱汇聚各方优质资源，方便开发者通过图谱发散式学习领域内的优质知识，减少不必要的学习成本。
 
+使用 Markdown 举个例子：
+
+Ethereum
+- DApp 开发
+  - Solidity 智能合约是怎么写的
+    - [Solidity Doc EN v0.8.26](https://docs.soliditylang.org/en/v0.8.26/)
+      - [Solidity Doc ZH v0.8.20](https://docs.soliditylang.org/zh/v0.8.20/)
+  - 如何与智能合约交互
+    - 调用智能合约有哪些 SDK
+      - JS
+        - [Web3.js v1.10.0](https://web3js.readthedocs.io/en/v1.10.0/)
+        - [Ethers.js v5](https://docs.ethers.org/v5/)
+      - Python
+        - [Web3.py vstable](https://web3py.readthedocs.io/en/stable/)
+    - 如何查看智能合约调用情况以及都有哪些测试网（区块链浏览器）
+      - Etherscan
+        - [Miannet](https://etherscan.io/)
+        - [Sepolia Testnet](https://sepolia.etherscan.io/)
+        - [Holesky Testnet](https://holesky.etherscan.io/)
+  - Ethereum 的原生 token、FT、NFT 的定义以及交互
+    - 常见的 FT 标准
+      - [ERC20](https://github.com/ethereum/ERCs/blob/master/ERCS/erc-20.md)
+    - 常见的 NFT 标准
+      - [ERC721](https://github.com/ethereum/ERCs/blob/master/ERCS/erc-721.md)
+      - [ERC1155](https://github.com/ethereum/ercs/blob/master/ERCS/erc-1155.md)
+  - Ethereum 中有哪些常见的钱包
+    - [Metamask chrome extension](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn)
+- 链底层开发
+  - xxx
+- Ethereum 通识
+  - xxx
+
 ## 项目贡献流程
 通过 issue-PR 的形式进行统一管理。
 
